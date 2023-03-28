@@ -1,0 +1,48 @@
+body {
+    background-image: url("calc.jpg");
+    background-repeat: no-repeat;
+   
+  }
+.bod{
+    margin : 7% 40% ;
+    
+     
+}
+input{
+    margin : 5px  ;
+    padding : 17px 23px;;
+    border-radius : 10%;
+    font-size : 18px;
+    font-weight: bold;
+    text-align : right ;
+    color: black ;
+    background-color:rgb(93, 126, 166) ;
+    border-color: rgb(172, 177, 73);
+}
+#dis{
+    padding :17px 30px;
+    border-radius : 0%;
+    margin-bottom : 10px ;
+    background:transparent ;
+    color:black ;
+
+}
+#HAR{
+    background-color: red;
+    color : black ;
+    text-align : right ;
+    padding : 15px 50px ;
+}
+
+.but:hover{
+    color : #fff ;
+    
+}
+.opera{
+    color :#fff ;
+    background-color: black;
+}
+.opera:hover{
+    color:blue ;
+}
+
